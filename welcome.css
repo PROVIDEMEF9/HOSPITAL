@@ -1,0 +1,27 @@
+.active_update {
+    background-color: transparent;
+    text-decoration: underline;
+    font-size: 25px;
+
+}
+
+.text-info {
+    color: rgb(14, 75, 119) !important;
+}
+
+.blue_btn {
+    background-color: rgb(14, 75, 119);
+}
+
+ul li {
+    margin-left: 18px;
+    margin-right: 18px;
+}
+
+.bk_nav {
+    display: flex;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
